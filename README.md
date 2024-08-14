@@ -32,11 +32,11 @@ ollama run llama3.1
 
 ollama run llama3.1
 ## Usage
-  1.open ##CMD type 
+  **1.open CMD type **
 ```
 ollama --version
 ```
-  2.### Running local builds
+  **2. Running local builds**
 
 Next, start the server:
 
