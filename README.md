@@ -1,7 +1,7 @@
 # Medllam-based Project
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Contributors](https://img.shields.io/github/contributors/yourusername/repositoryname)](https://github.com/yourusername/repositoryname/graphs/contributors)
+
 
 ## Overview
 
@@ -34,7 +34,7 @@ ollama run llama3.1
 ## Usage
   1.open ##CMD type ```
 ollama --version
-```.
+```
   2.### Running local builds
 
 Next, start the server:
@@ -43,8 +43,8 @@ Next, start the server:
 ./ollama serve
 ```
 Finally, in a separate shell, run a model:
-
+```
 ./ollama run llama3.1
-
+```
 
 ## .js Developed by LightsMindz
